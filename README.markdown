@@ -7,3 +7,4 @@
 ![20140928 JavaScript Framework Hackathon](20140928 JavaScript Framework Hackathon.jpg)
 ![20141026 jThree Class Tokyo](20141026 jThree Class Tokyo.jpg)
 ![20141108 VimConf 2014](20141108 VimConf 2014.jpg)
+![20141130 AngularJS ハッカソン](20141130 AngularJS ハッカソン.jpg)
